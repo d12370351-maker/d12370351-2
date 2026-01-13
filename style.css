@@ -205,3 +205,9 @@ a:active {
         width: 45%;
     }
 }
+.copyright {
+    text-align: center;
+    color: #888;
+    font-size: 14px;
+    margin: 40px 0;
+}
